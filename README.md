@@ -5,6 +5,7 @@
 <meta name="keywords" content="html tutorial template">
 </head>
 <body>
+<div>this is our proposal:</div>
 <a href = "project_proposal.pdf"> Project Proposal </a>
 </body>
 </html>
